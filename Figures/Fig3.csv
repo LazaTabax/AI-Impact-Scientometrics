@@ -1,0 +1,10 @@
+Sample,Average Citations,Type
+Unfiltered,22.7,Education
+Unfiltered,40.0,Company
+Unfiltered,62.7,Cooperation
+Venue Filtered,24.3,Education
+Venue Filtered,59.3,Company
+Venue Filtered,69.1,Cooperation
+Venue & Time Filtered,17.2,Education
+Venue & Time Filtered,83.6,Company
+Venue & Time Filtered,70.0,Cooperation
