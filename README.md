@@ -3,13 +3,13 @@ Data and Code used in "Analyzing the Impact of Companies on AI Research Based on
 
 <img src="DataAndMethod.png" title="Schematic overview of the data preparation pipeline">
 
-In "Data" you can find the files that form the basis for the analysis:\n
+<p>In "Data" you can find the files that form the basis for the analysis:<br>
 AllCit.tsv corresponds to the citation dataset from the paper.
 AllAlt.tsv corresponds to the altmetric dataset from the paper.
-The .csv files were produces on the basis of AllCit.tsv and were used for the figures.
+The .csv files were produces on the basis of AllCit.tsv and were used for the figures.<p>
 
-In "Code" you can find two Jupiter Notebooks:\n
+<p>In "Code" you can find two Jupiter Notebooks:<br>
 metrics.ipynb shows how most of the metrics were calculated.
-figures.ipynb shows how most of the figures were created.
+figures.ipynb shows how most of the figures were created.<p>
 
 For more information on the raw data and its preparation, read the data section of the paper or consult the authors.
