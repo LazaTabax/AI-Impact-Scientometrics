@@ -1,7 +1,7 @@
 # AI-Impact-Scientometrics
 Data and Code used in "Analyzing the Impact of Companies on AI Research Based on Publications" by Färber and Tampakis (2023)<br>
 
-<img src="DataAndMethod.png" title="Schematic overview of the data preparation pipeline">
+<img src="Data&MethodOverview.png" title="Schematic overview of the data preparation pipeline">
 
 <p>In "Data" you can find the files that form the basis for the analysis:<br>
 AllCit.tsv corresponds to the citation dataset from the paper.<br>
