@@ -13,6 +13,7 @@ The .csv files were produces on the basis of AllCit.tsv and were used for the cr
 metrics.ipynb shows how the metrics were calculated.<br>
 figures.ipynb shows how the figures were created.<p>
 
+<p>For more information on the raw data and its preparation, read the data section of the paper or consult the authors.<p>
 
 # Contact
-For more information on the raw data and its preparation, read the data section of the paper or consult [Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@kit.edu.
+[Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@kit.edu.
