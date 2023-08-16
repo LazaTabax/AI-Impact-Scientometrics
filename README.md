@@ -1,5 +1,5 @@
-# AI-Impact-Scientometrics-2022
-Data and Code used in "Analyzing the Impact of Companies on AI Research Based on Publications" by Färber and Tampakis (2022)<br>
+# AI-Impact-Scientometrics
+Data and Code used in "Analyzing the Impact of Companies on AI Research Based on Publications" by Färber and Tampakis (2023)<br>
 
 <img src="DataAndMethod.png" title="Schematic overview of the data preparation pipeline">
 
