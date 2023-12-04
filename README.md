@@ -1,6 +1,6 @@
 # Overview
-Data and Code used for "Analyzing the Impact of Companies on AI Research
-Based on Publications" by Färber and Tampakis (2023)<br>
+Data and Code used for ["Analyzing the Impact of Companies on AI Research
+Based on Publications"](https://doi.org/10.1007/s11192-023-04867-3) by Färber and Tampakis (2023)<br>
 
 <img src="Data&MethodOverview.png" title="Schematic overview of the data preparation pipeline">
 
