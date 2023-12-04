@@ -17,4 +17,5 @@ figures.ipynb shows how the figures were created.<p>
 
 # Contact or citation
 [Michael Färber](https://sites.google.com/view/michaelfaerber), michael.faerber@kit.edu. <br>
-Färber, M., Tampakis, L. Analyzing the impact of companies on AI research based on publications. Scientometrics (2023). https://doi.org/10.1007/s11192-023-04867-3
+Färber, M., Tampakis, L. Analyzing the impact of companies on AI research based on publications.<br>
+Scientometrics (2023). https://doi.org/10.1007/s11192-023-04867-3
